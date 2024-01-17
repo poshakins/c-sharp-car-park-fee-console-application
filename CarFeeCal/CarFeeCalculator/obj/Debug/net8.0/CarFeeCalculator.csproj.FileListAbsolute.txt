@@ -1,0 +1,14 @@
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/bin/Debug/net8.0/CarFeeCalculator
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/bin/Debug/net8.0/CarFeeCalculator.deps.json
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/bin/Debug/net8.0/CarFeeCalculator.runtimeconfig.json
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/bin/Debug/net8.0/CarFeeCalculator.dll
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/bin/Debug/net8.0/CarFeeCalculator.pdb
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/CarFeeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/CarFeeCalculator.AssemblyInfoInputs.cache
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/CarFeeCalculator.AssemblyInfo.cs
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/CarFeeCalculator.csproj.CoreCompileInputs.cache
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/CarFeeCalculator.dll
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/refint/CarFeeCalculator.dll
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/CarFeeCalculator.pdb
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/CarFeeCalculator.genruntimeconfig.cache
+/Users/iamakinjuwon/Documents/dotnettraining/CarFeeCal/CarFeeCalculator/obj/Debug/net8.0/ref/CarFeeCalculator.dll
